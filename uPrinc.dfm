@@ -225,7 +225,7 @@ object Form1: TForm1
     ConnectButton = 'Conectar'
     CancelButton = 'Cancelar'
     LabelSet = lsCustom
-    Left = 240
+    Left = 256
     Top = 128
   end
 end
